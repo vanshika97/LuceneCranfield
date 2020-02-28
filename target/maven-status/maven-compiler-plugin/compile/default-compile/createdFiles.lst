@@ -1,0 +1,4 @@
+lucene\indexer.class
+lucene\parser.class
+lucene\search_docs.class
+lucene\main.class
