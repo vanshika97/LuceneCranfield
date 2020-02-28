@@ -6,6 +6,7 @@ LuceneCranfield a Java based project in Apache Lucene
 My login credentials:  
 * Username: ___vanshika___  
 * Password: ___vanshika___  
+* IP address: 3.82.209.50  
 
 1.  Open command prompt in _Adminstrator mode_ 
 2.  Type the following commands to enter my AWS console
