@@ -1,2 +1,14 @@
-*.c linguist-detectable=false  
-*.java linguist-detectable=true
+*.c             linguist-detectable=false  
+*.h             linguist-detectable=false   
+*.java          linguist-detectable=true  
+
+#
+# Exclude files from exporting
+#
+
+.gitattributes  export-ignore
+
+#
+# Enable syntax highlighting for files with `.gitattributes` extensions.
+#
+*.gitattributes linguist-language=gitattributes
